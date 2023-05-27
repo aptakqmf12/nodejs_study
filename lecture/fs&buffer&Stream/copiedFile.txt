@@ -1,0 +1,17 @@
+저는 조금씩 조금씩 나누어 전달됩니다.
+나눠진 조각을 chunk라고 합니다.
+e to the latest version to get the best features, bug fixes, and security patches. If you are unable to upgrade at this time, paid support is available for older versions (hapi.im/commercial).
+npm WARN deprecated cryptiles@0.1.0: This version has been deprecated in accordance with the hapi support policy (hapi.im/support). Please upgrade to the latest version to get the best features, bug fixes, and security patches. If you are unable to upgrade at this time, paid support is available for older versions (hapi.im/commercial).
+npm WARN deprecated boom@0.3.1: This version has been deprecated in accordance with the hapi support policy (hapi.im/support). Please upgrade to the latest version to get the best features, bug fixes, and security patches. If you are unable to upgrade at this time, paid support is available for older versions (hapi.im/commercial).
+
+added 134 packages, and audited 168 packages in 14s
+
+3 packages are looking for funding
+  run `npm fund` for details
+
+35 vulnerabilities (10 moderate, 20 high, 5 critical)
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
